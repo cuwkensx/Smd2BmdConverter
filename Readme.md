@@ -12,7 +12,7 @@ The converted bmd will be saved to the same directory of your smd file.
 
 ## Requirements
 
-Python, any version may goes.
+Python, any version may go.
 
 Nothing else.
 
