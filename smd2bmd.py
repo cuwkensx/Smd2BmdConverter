@@ -155,7 +155,7 @@ class Smddata(object):
             fp.write(self.serialize())
 
 def getargs():
-    parser = argparse.ArgumentParser(description='distorted mnist')
+    parser = argparse.ArgumentParser(description='smd2bmd converter')
     parser.add_argument('--file',type=str)
 
     args = parser.parse_args()
